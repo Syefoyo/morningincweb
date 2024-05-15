@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    display: block;
+    font-size: 80px;
+    color: #f1f146;
+}
+h2 {
+    text-align: center;
+    display: block;
+    font-size: 50px;
+}
+.hi {
+    text-align: center;
+    display: block;
+}
+a {
+    text-align: center;
+    display: block;
+    color: yellow;
+}
+body {
+    background-color: blueviolet;
+}
+h3 {
+    text-align: center;
+    display: block;
+}
+button {
+    text-align: center;
+    display: block;
+    background-color: #c0c024;
+    padding: 5px 5px 5px 5px;
+    border: solid 5px;
+    border-radius: 5px;
+}
