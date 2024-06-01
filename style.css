@@ -24,12 +24,13 @@ body {
 h3 {
     text-align: center;
     display: block;
+    color:aquamarine;
 }
 button {
-    text-align: center;
-    display: block;
-    background-color: #c0c024;
+    background-color: #c0c024; text-align: center;
     padding: 5px 5px 5px 5px;
     border: solid 5px;
     border-radius: 5px;
+    display: block;
+    text-align: center;
 }
